@@ -22,8 +22,8 @@ A API foi desenvolvida com **FastAPI** e está configurada para rodar em um cont
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/viktorferrer/tech_challenge_04.git
+cd tech_challenge_04
 ```
 
 ### **2. Construir e Rodar com Docker**
